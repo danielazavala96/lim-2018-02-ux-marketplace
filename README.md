@@ -2,9 +2,20 @@
 
 ## Antecedentes
 
-Central Fly fue creado en el año 2007 por Gianmarco Cultrera, la tienda cuenta con 12 años en el mercado nacional. Actualmente la empresa es manejada por Gianmarco y una socia. Toda la publicidad, venta y delivery es manejada directamente por ellos dos. 
-Esta empresa nace con la intención de ofrecer la mejor experiencia al comprar en una tienda virtual en Perú, con la meta de mejorar la colección de cada uno de sus clientes. 
+En Japón los muñecos tridimensionales que imitan el aspecto de personajes de manga, anime, videojuegos, etc., se llaman figyua (figuras). Estas figuras son representaciones en tres dimensiones (con relieve) de personajes originalmente bidimensionales (planos). “El punto justo son 2,8 dimensiones, entre el manga y la realidad”, comenta Miyawaki Shūichi, director de la empresa fabricante de figuras Kaiyodo.
 
+Hace años había unos caramelos en caja llamados shokugan que la gente compraba por las figuras de regalo que incluían. Más tarde se empezaron a regalar figuras con otros productos como la Coca-Cola y los huevos de chocolate. Hoy en día el mundo de las figuras, que abarca una amplia variedad de muñecos infinitamente más detallados y realistas que los de antaño, mueve un mercado de 30.000 millones de yenes (datos del año fiscal 2013).
+
+Cada fabricante destaca en distintos géneros, pero el mercado ofrece figuras de prácticamente todo lo existente tanto en Japón como en el resto del mundo, desde personajes de película, manga y anime famosos, hasta celebridades, edificios emblemáticos, transportes y comida. El tamaño también es muy variado: lo normal son las pequeñas de varios centímetros y las medianas para poner encima de la mesa, pero también las hay de tamaño humano. Hay muchos fabricantes de figuras; algunos de los más famosos son Good Smile Company, ALTER, Kotobukiya, Volks, MegaHouse, Max Factory, Hot Toys y Medicom Toy.
+
+Las figuras pueden adquirirse por internet desde los sitios web de los fabricantes y otros distribuidores, pero no son pocos los aficionados que prefieren ver el producto en la tienda antes de comprarlo. Las tiendas exponen las figuras en vitrinas y estanterías, y algunas pueden tocarse; es un servicio muy atractivo para los que desean comprobar los detalles del diseño de cerca.
+
+Fuente [www.nippon.com](https://www.nippon.com/es/features/jg00071/)
+
+## Historia de la Empresa
+
+Central Fly fue creado en el año 2007 por Gianmarco Cultrera, la tienda cuenta con 12 años en el mercado nacional. Actualmente la empresa es manejada por Gianmarco y su socia. Toda la publicidad, venta y delivery es manejada directamente por ellos dos. 
+Esta empresa nace con la intención de ofrecer la mejor experiencia al comprar en una tienda virtual en Perú, con la meta de mejorar la colección de cada uno de sus clientes. 
 
 ## Objetivos del proyecto
 
