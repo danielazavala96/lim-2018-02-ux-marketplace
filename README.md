@@ -26,6 +26,9 @@ La solución al problema encontrado deberá de reflejar la identidad  gráfica d
 
 Para definir nuestro público objetivo realizamos un screener survey, con el objetivo de filtrar personas que hayan utilizado un e-commerce o realizado alguna compra online, asimismo dentro de la encuesta se preguntó si habían comprado alguna figura de acción. Para poder revisar a detalle las preguntas realizadas podrán hacerlo a través del siguiente link: https://claudiaheredia.typeform.com/to/DcQ5Yn
 
+![screener survey](https://user-images.githubusercontent.com/44978365/52512250-cf719f00-2bd1-11e9-9564-0276e62b5f41.JPG)
+
+
 De esta encuesta se pudieron filtrar a dos personas que presentaban las características que buscabamos. Asimismo se pidió el apoyo del cliente a fin de poder entrevistar a algunos de sus clientes para conocer su experiencia.
 
 ### **CONCLUSIONES DE ENTREVISTAS**
