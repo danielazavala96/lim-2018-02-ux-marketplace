@@ -12,34 +12,15 @@ Las figuras pueden adquirirse por internet desde los sitios web de los fabricant
 
 Fuente [www.nippon.com](https://www.nippon.com/es/features/jg00071/)
 
-## Historia de la Empresa
+## ***Historia de la Empresa***
 
 Central Fly fue creada en el año 2007 por Gianmarco Cultrera, la tienda cuenta con 12 años en el mercado nacional. Actualmente la empresa es manejada por Gianmarco y su socia. Tanto la publicidad, venta y delivery es manejada directamente por los dos. 
 Esta empresa nace con la intención de ofrecer la mejor experiencia al comprar en una tienda virtual en Perú, con la meta de mejorar la colección de cada uno de sus clientes. 
 
-## Objetivos del proyecto
+## ***Objetivos del proyecto***
 
 Este proyecto tiene como objetivo, conocer al público usuario de CENTRAL FLY mediante sus gustos y su frecuencia de compra. Asimismo se debe determinar cuales son las dificultades que encuentran los usuarios al momento de realizar una compra a través de la web del e-comerce.
 La solución al problema encontrado deberá de reflejar la identidad  gráfica de la marca en la web, simplicar el flujo de compra del cliente y sobre todo deberá de ser una web adaptable a cualquier tipo de dispositivo. 
-
-## ***Problemas identificados en la investigación***
-
-### **Cliente**
-
-En nuestra investigación pudimos detectar tres problemas que el cliente tiene en su negocio.
-
-1. El flujo de compra actual para la compra de un producto es muy extenso.
-2. La página web actual, no es adaptable a los dipositivos móviles, por lo que muchos usuarios no compran en línea ya que ellos utilizan en la mayoria de los casos sus móviles para realizar los pedidos.
-3. La identidad gráfica de la marca no está definida.
-
-    
-### **Usuario**
-
-Asimismo en las entrevistas realizadas a los usuarios se pudieron determinar los siguientes problemas.
-
-1. El usuario necesita que el sistema de compra en línea sea sencillo, para que no le demande esfuerzo innecesario.
-2. El usuario necesita que las figuras de acción se puedan visualizar en diferentes ángulos, asimismo desea poder ver los detalles, para tener más certeza de lo que esta comprando
-3. El usuario necesita que las marcas de las figuras de colección sean lo primero que pueda ver porque, no desea perder tiempo en contenido irrelevante.
 
 ## ***Definición del público objetivo***
 
@@ -112,7 +93,24 @@ En esta prueba pudimos ver que una web de tipo responsive, que incluya un carrit
 
 ![brenchmarket](https://user-images.githubusercontent.com/44978365/52504625-01293c80-2bb7-11e9-95e8-c26b345ecc1b.jpg)
 
+## ***Problemas identificados en la investigación***
 
+### **Cliente**
+
+En nuestra investigación pudimos detectar tres problemas que el cliente tiene en su negocio.
+
+1. El flujo de compra actual para la compra de un producto es muy extenso.
+2. La página web actual, no es adaptable a los dipositivos móviles, por lo que muchos usuarios no compran en línea ya que ellos utilizan en la mayoria de los casos sus móviles para realizar los pedidos.
+3. La identidad gráfica de la marca no está definida.
+
+    
+### **Usuario**
+
+Asimismo en las entrevistas realizadas a los usuarios se pudieron determinar los siguientes problemas.
+
+1. El usuario necesita que el sistema de compra en línea sea sencillo, para que no le demande esfuerzo innecesario.
+2. El usuario necesita que las figuras de acción se puedan visualizar en diferentes ángulos, asimismo desea poder ver los detalles, para tener más certeza de lo que esta comprando
+3. El usuario necesita que las marcas de las figuras de colección sean lo primero que pueda ver porque, no desea perder tiempo en contenido irrelevante.
 
 ## ***Definición de la solución/producto***
 
@@ -124,9 +122,28 @@ Una vez finalizada la investigación de la problemática de CENTRAL FLY y tenien
 
 3. *MARCAS DE FABRICANTE*: Para este problema se ha determinado colocar en el HOME PAGE los íconos de la principales marcas de los fabricantes, así el usuario que busca algún articulo en específico de determina marca, podrá linkear y revisar de forma inmediata los productos de dicha empresa.
 
+## ***Testings***
+
+Teniendo en claro lo que el usuario de CENTRAL FLY necesitaba, procedimos a desarrollar los prototipos de baja fidelidad, a fin de poder conocer si el flujo planteado era entendido por ellos.
+
+![img_20190205_135630](https://user-images.githubusercontent.com/44978365/52511402-c7affb80-2bcd-11e9-8229-e3b6c7526248.jpg)
+![img_20190205_135624](https://user-images.githubusercontent.com/44978365/52511404-c8489200-2bcd-11e9-891d-6e4e9f91e044.jpg)
+![img_20190205_135458](https://user-images.githubusercontent.com/44978365/52511405-c8489200-2bcd-11e9-922f-fe5674aaaf87.jpg)
+![img_20190205_135448](https://user-images.githubusercontent.com/44978365/52511406-c8489200-2bcd-11e9-9d3a-7829fc8fa045.jpg)
+
+En los testing que realizamos, les solicitamos a los clientes que desarrollen tres tareas:
+
+1. Busca y escoge un producto, luego procede a comprarlo.
+2. Logeate y guarda tu dirección de envío.
+3. Suscríbete al boletín semanal de CENTRAL FLY.
+
+De las tres tareas testeadas, a cuatro de los usuarios se les dificultó la búsqueda de el boletín semanal, debido a que estaba muy escondido y no lo encontraban. Asimismo la segunda tarea que consistían en loguearse no lo entendieron muy bien ya que las imagenes que les presentamos no fueron muy claras. Con la tarea de buscar, escoger y comprar un producto, todos los usuarios concluyeron que se les hizo fácil y sencillo el flujo de compra.
+
+Con el levantamiento de estas observaciones empezamos a diseñar el prototipo de alta fidelidad:
+
+
+
 ## ***Link a prototipo navegable***
-
-
 
 
 ## ***Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.***
