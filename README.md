@@ -102,8 +102,8 @@ En esta prueba pudimos ver que una web de tipo responsive, que incluya un carrit
 
 En nuestra investigación pudimos detectar tres problemas que el cliente tiene en su negocio.
 
-1. El flujo de compra actual para la compra de un producto es muy extenso.
-2. La página web actual, no es adaptable a los dipositivos móviles, por lo que muchos usuarios no compran en línea ya que ellos utilizan en la mayoria de los casos sus móviles para realizar los pedidos.
+1. El flujo de compra de un producto actualmente es muy extenso.
+2. La página web actual, no es adaptable a los dispositivos móviles, por lo que muchos usuarios no compran en línea ya que ellos utilizan en la mayoria de los casos sus móviles para realizar los pedidos.
 3. La identidad gráfica de la marca no está definida.
 
     
@@ -166,10 +166,19 @@ El segundo problema desarrollado fue que no se encontraban detalles específicos
 
 Para el tercer problema detectado, consistía en que el cliente deseaba ver las marcas de sus productos desde el inicio y así no perder tiempo innecesario buscándolo, es por ello que se ha colocado los links de la marcas más reconocidas en el HOME PAGE de web.
 
+## ***User Flow***
+
+Habiando terminado el prototipo de alta fidelidad, elaboramos el USER FLOW, que nos permitirá seguir la secuencia de interactividad que tienen nuestros usuarios con nuestro aplicativo.
+
+![user flow](https://user-images.githubusercontent.com/44978365/52571982-b856cb00-2de4-11e9-9e2a-88f29cd54429.jpeg)
 
 ## ***Link ADOBE XD***
 
+https://xd.adobe.com/view/9ce1f42d-f532-47d5-7669-e12eb8d44a64-ead0/
+
 ## ***Video de Loom***
+
+
 
 ## ***Link de documentación en Google***
 
