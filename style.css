@@ -1,0 +1,94 @@
+
+/*--- MENU ---*/
+li {
+   list-style: none;
+}
+
+li img {
+    width: 3em;
+    height: 3em;
+    padding: 0.5em;
+}
+.menu {
+    padding:1em;
+    display: flex;
+    justify-content: space-between;
+    
+}
+span {
+    display: flex;
+    justify-content: space-between;
+    
+}
+li a{
+    font-size: 14px;
+    text-align: center;
+}
+
+.img_home{
+    width: 4em;
+    height: 4em;
+}
+
+@media only screen and (min-width: 600px) {
+
+    li img {
+        width: 4em;
+        height: 4em;
+        padding: 0.5em;
+    }
+    .img_home{
+        width: 8em;
+        height: 8em;
+    }
+}
+
+/*--- FIN DE MENU ---*/
+
+/*-- SLIDES --*/
+.slide1 {
+    font-size: 16px;
+    color: #F4EBDB;
+}
+
+.slider {
+    margin: 0%;
+}
+.slide {
+   padding: 0.5em;
+   margin: 0%;
+   display: flex;
+   justify-content: center;  
+}
+
+/*--FIN DE SLIDES--/
+
+
+
+/*Inicio de cartas template*/
+.root-1{
+    padding: 2em;
+    
+}
+
+.card-ofert{
+    width: 9em;
+    height: 9em;
+    padding: 0.5em;
+    border-color: #383a3b;
+    border: 1px;
+    border-style: solid;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+.name-product {
+    font-size: 18px;
+}
+@media only screen and (min-width: 600px) {
+  
+}
+
+/*Fin de cartas template*/
