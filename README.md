@@ -144,8 +144,6 @@ De las tres tareas testeadas, a cuatro de los usuarios se les dificultó la bús
 
 Con el levantamiento de estas observaciones empezamos a diseñar el prototipo de alta fidelidad:
 
-
-
 ## ***Link a prototipo navegable***
 
 
