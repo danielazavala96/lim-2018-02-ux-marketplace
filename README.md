@@ -2,13 +2,13 @@
 
 ## ***Antecedentes***
 
-Hace años había unos caramelos en caja llamados shokugan que la gente compraba por las figuras de regalo que incluían. Más tarde se empezaron a regalar figuras con otros productos como la Coca-Cola y los huevos de chocolate. Hoy en día el mundo de las figuras, que abarca una amplia variedad de muñecos infinitamente más detallados y realistas que los de antaño, mueve un mercado de 30.000 millones de yenes en Japón (datos del año  fiscal 2013).
+Hace años había unos caramelos en caja llamados shokugan que la gente compraba por las figuras de regalo que incluían. Más tarde se empezaron a regalar figuras con otros productos como Coca-Cola y los huevos de chocolate. Hoy en día el mundo de las figuras, abarca una infinitamente variedad de muñecos más detallados y más realistas que los de antaño, mueve un mercado de 30.000 millones de yenes en Japón (datos del año  fiscal 2013).
 
-Cada fabricante destaca en distintos géneros, pero el mercado ofrece figuras de prácticamente todo lo existente tanto en Japón como en el resto del mundo. El tamaño también es muy variado:los hay en centimetros, para mesa y hasta de tamañao de un humano. Hay muchos fabricantes de figuras; algunos de los más famosos son Good Smile Company, ALTER, Kotobukiya, Volks, MegaHouse, Max Factory, Hot Toys y Medicom Toy.
+Cada fabricante destaca en distintos géneros, pero el mercado ofrece figuras de prácticamente todo lo existente tanto en Japón como en el resto del mundo. El tamaño también es muy variado: los hay en centimetros, para mesa y hasta de tamaño humano. Hay muchos fabricantes de figuras; algunos de los más famosos son Good Smile Company, ALTER, Kotobukiya, Volks, MegaHouse, Max Factory, Hot Toys y Medicom Toy.
 
 ![tienda](https://user-images.githubusercontent.com/44978365/52458679-d2678380-2b2e-11e9-8956-c22623b08515.jpg)
 
-Las figuras pueden adquirirse por internet desde los sitios web de los fabricantes y otros distribuidores, pero no son pocos los aficionados que prefieren ver el producto en la tienda antes de comprarlo. Las tiendas exponen las figuras en vitrinas y estanterías, y algunas pueden tocarse; es un servicio muy atractivo para los que desean comprobar los detalles del diseño de cerca.
+Las figuras pueden adquirirse por internet desde los sitios web de los fabricantes y otros distribuidores, pero no son pocos los aficionados que prefieren ver el producto en la tienda antes de comprarlo. Las tiendas exponen las figuras en vitrinas y estanterías, algunas pueden tocarse; es un servicio muy atractivo para los que desean comprobar los detalles del diseño de cerca.
 
 Fuente [www.nippon.com](https://www.nippon.com/es/features/jg00071/)
 
@@ -20,38 +20,38 @@ Esta empresa nace con la intención de ofrecer la mejor experiencia al comprar e
 ## ***Objetivos del proyecto***
 
 Este proyecto tiene como objetivo, conocer al público usuario de CENTRAL FLY mediante sus gustos y su frecuencia de compra. Asimismo se debe determinar cuales son las dificultades que encuentran los usuarios al momento de realizar una compra a través de la web del e-comerce.
-La solución al problema encontrado deberá de reflejar la identidad  gráfica de la marca en la web, simplicar el flujo de compra del cliente y sobre todo deberá de ser una web adaptable a cualquier tipo de dispositivo. 
+La solución al problema encontrado deberá de reflejar la identidad  gráfica de la marca en la web, simplificar el flujo de compra del cliente y sobre todo deberá de ser una web adaptable a cualquier tipo de dispositivo. 
 
 ## ***Definición del público objetivo***
 
-Para definir nuestro público objetivo realizamos un screener survey, con el objetivo de filtrar personas que hayan utilizado un e-commerce o realizado alguna compra online, asimismo dentro de la encuesta se preguntó si habían comprado alguna figura de acción. Para poder revisar a detalle las preguntas realizadas podrán hacerlo a través del siguiente link: https://claudiaheredia.typeform.com/to/DcQ5Yn
+Para definir nuestro público objetivo realizamos un screener survey, dirigido a filtrar personas que hayan utilizado un e-commerce o realizado alguna compra online, asimismo, dentro de la encuesta se preguntó si habían comprado alguna figura de acción. Para poder revisar a detalle las preguntas realizadas podrán hacerlo a través del siguiente link: https://claudiaheredia.typeform.com/to/DcQ5Yn
 
 ![screener survey](https://user-images.githubusercontent.com/44978365/52512250-cf719f00-2bd1-11e9-9564-0276e62b5f41.JPG)
 
 
-De esta encuesta se pudieron filtrar a dos personas que presentaban las características que buscabamos. Asimismo se pidió el apoyo del cliente a fin de poder entrevistar a algunos de sus clientes para conocer su experiencia.
+De esta encuesta se pudieron filtrar a dos personas que presentaban las características que buscabamos. Asimismo se pidió el apoyo del cliente a fin de entrevistar a algunos de sus clientes para conocer su experiencia.
 
 ### **CONCLUSIONES DE ENTREVISTAS**
 
 Después de haber realizado las entrevistas con los usuarios, pudimos sacar las siguientes conclusiones:
 
-- Los usuarios empezaban a coleccionar por nostalgia, muchos de ellos nos comentaban que cuando compraron sus primeras figuras de acción lo habían hecho porque les recordaba a aquellos dibujos que veían por televisión de chicos. Otros usuarios empezaron a coleccionar porque fue algún pariente cercano a ellos quien les transmitio esa pasión y por cariño a ellos seguían coleccionando.
+- Los usuarios empezaban a coleccionar por nostalgia, muchos de ellos nos comentaban que cuando compraron sus primeras figuras de acción lo habían hecho porque les recordaba a aquellos dibujos que veían por televisión de chicos. Otros usuarios empezaron a coleccionar porque fue algún pariente cercano a ellos quien les transmitio esa pasión.
 
-- Otra de las cosas que pudimos concluir es que los usuarios son muy temerosos en comprar en páginas de e-commerce del Perú, pero en páginas del extranjero no tenían mayor problema ya que les transmitía mucha más confianza. Nos comentaban que no habían tenido muy buenas experiencias con páginas locales.
+- Otra de las cosas que pudimos concluir es que los usuarios son muy temerosos de comprar en páginas de e-commerce peruanas, pero en páginas del extranjero no tenían mayor problema ya que les transmitía mucha más confianza. Nos comentaban que no habían tenido muy buenas experiencias con páginas locales.
 
-- En cuanto a su experiencia con CENTRAL FLY los usuarios comentaban que el servicio les parecía bueno, los precios están de acuerdo al mercado. Pero  que no les agradaba el servicio de compra, porque les parecía un proceso demasiado largo, debido a que tenían que llenar muchos formularios y tienen que darse el tiempo de ir a buscar un banco específico para poder realizar el depósito y que después tenían que volver a enviar un correo con la fotografía del voucher de depósito.
+- En cuanto a su experiencia con CENTRAL FLY los usuarios comentaban que el servicio les parecía bueno, los precios están de acuerdo al mercado. Pero  que no les agradaba el servicio de compra, porque les parecía un proceso demasiado largo, debido a que tenían que llenar muchos formularios, darse el tiempo de ir a buscar un banco específico para poder realizar el depósito y que después tenían que volver a enviar un correo con la fotografía del voucher de depósito.
 
 - Por otra parte, nos comentaban que ellos usualmente solían revisar la web de CENTRAL FLY de camino a casa o en algún tiempo libre, pero que la web no se ajustaba a sus dipositivos móviles, lo que no les permitía una navegación óptima.
 
 - Asimismo nos mencionaban que les gustaría poder visualizar las fotos de las figuras de acción de diferentes ángulos y así tener la certeza de lo que están comprando. Otra de las cosas que deseaban tener son las características, descripciones y el contenido de la caja del producto.
 
-- Algunos de nuestros usuarios nos manifestaron que se les hacía muy complicado tener que buscar los productos dentro de la tienda, que les gustaría poder ver en el Home Page las marcas de los principales fabricantes, y así poder ingresar directamente al fabricante y ubicar la figura de acción que están buscando.
+- Algunos de nuestros usuarios nos manifestaron que se les hacía muy complicado tener que buscar los productos dentro de la tienda, que les gustaría poder ver en la página de inicio las marcas de los principales fabricantes, y así poder ingresar directamente al fabricante y ubicar la figura de acción que están buscando.
 
 #### **USER PERSONA**
 
 Una vez realizadas las entrevistas con los usuarios se definió los tipos de usuarios, encontrando dos tipos. 
 
-El usuario primario es Paulo de 42 años quien ama coleccionar, lo hace desde hace mucho tiempo, tiene entre su colección mas de 2000 figuras de acción. Él realiza las compras a través de e-commerce extranjeras, su experiencia con páginas peruanas no fue muy buena.
+El usuario primario es Paulo de 42 años quien ama coleccionar, lo hace desde hace mucho tiempo, tiene entre su colección mas de 500 figuras de acción. Él realiza las compras a través de e-commerce extranjeras, su experiencia con páginas peruanas no fue muy buena.
 
 El usuario secundario es Sandra de 31 años, es diseñadora, empezó a coleccionar por su padre, ya que a él le encanta coleccionar y le trasmitió ese deseo por las figuras de acción. Ella no suele comprar muy seguido, tampoco tiene una colección completa, pero cada vez que le gusta un personaje adquiere la figura de acción.
 
@@ -66,7 +66,7 @@ El usuario secundario es Sandra de 31 años, es diseñadora, empezó a coleccion
 
 ### **AFFINITY MAP**
 
-Terminadas las entrevistas de usuarios, procedimos a sacar las citas correspondientes de cada una, con esta información armamos el AFFINITY MAP, para ver cuales eran los puntos de más relevancia entre los usuarios, entre ellos destacaron las compras online, los diseños de las webs, así como sus temores y frustaciones al realizar compras a través de e-commers.
+Terminadas las entrevistas de usuarios, procedimos a resaltar los insights de cada una, con esta información armamos nuestro AFFINITY MAP, para ver cuales eran los puntos de más relevancia entre los usuarios, entre ellos destacaron las compras online, los diseños de las webs, así como sus temores y frustaciones al realizar compras a través de e-commers.
 
 ![afinity map](https://user-images.githubusercontent.com/44978365/52509086-dd6cf300-2bc4-11e9-9e28-cadd4bed3ec6.jpg)
 
@@ -80,9 +80,9 @@ Al ingresar a la web de la tienda http://centralfly.net/ desde un dispositivo mo
 
 En cuanto al precio que el e-commerce ofrece. es relativamente competitivo con otras tiendas, inclusive algunos de nuestros clientes manifestaban que encontraban productos con buenos precios y grandes ofertas.
 
-Las características del producto que se muestra en la web no cuentan con muchas específicaciones, situación que crea desconfianza entre los usuarios ya que debido a esto, no se decidían a comprar a través de la tienda porque no sabían exactamente que les iba a llegar. Asimismo nos manifestaban que las marcas de sus fabricantes favoritos no se encontraban en la página principal del e-commerce, por lo que se les dificultaba la búsqueda.
+Las características del producto que se muestra en la web no cuentan con muchas específicaciones, situación que crea desconfianza entre los usuarios ya que debido a esto, no se decidían a comprar a través de la tienda porque no sabían exactamente que les iba a llegar. Asimismo, nos manifestaban que las marcas de sus fabricantes favoritos no se encontraban en la página principal del e-commerce, por lo que se les dificultaba la búsqueda.
 
-Otro factor importante es el proceso de compra, allí pudimos encontrar dos factores determinantes; el primero, se comprobó que los usuarios encuentran todo el proceso de compra demasiado tedioso, ya que primero tenían que enviar un formulario para que los contacten y les puedan brindar la información de la compra. El segundo factor es al momento de realizar el pago, ellos deben de hacerlo a través de un depósito bancario, lo que les parece muy trabajoso, debido a que muchos de ellos trabajan y no pueden buscar un banco específico para realizar el depósito correspondiente. Luego tienen que proceder a enviar el voucher escaneado al correo del cliente y esperar la confirmación, para así poder determinar que su proceso está concluído.
+Otro factor importante es el proceso de compra, allí pudimos detectar dos factores determinantes; el primero, se comprobó que los usuarios encuentran todo el proceso de compra demasiado tedioso, ya que primero tenían que enviar un formulario para que los contacten y les puedan brindar la información de la compra. El segundo factor es al momento de realizar el pago, ellos deben de hacerlo a través de un depósito bancario, lo que les parece poco practico, debido a que muchos de ellos trabajan y no pueden buscar un banco específico para realizar el depósito correspondiente. Luego tienen que proceder a enviar el voucher escaneado al correo del cliente y esperar la confirmación, para así poder determinar que su proceso está concluído.
 
 El tiempo de espera para que llegue el producto a sus manos es realitavemente asquible, según nos manifestaron pueden tardar entre dos y cuatro semanas. En este caso se debe de considerar que los artículos en su mayoría son traídos del extranjero y que el tiempo de espera por la entrega está dentro de los rangos permitidos.
 
@@ -92,7 +92,7 @@ Por último la entrega del producto se realiza solo los días viernes de cada se
 
 Para establecer las webs con las que comparamos, realizamos una búsqueda por Google y de las entrevistas de usuarios sacamos las que suelen utilizar para realizar sus compras online.
 
-En esta prueba pudimos ver que una web de tipo responsive, que incluya un carrito de compra y que tenga los artículos con las características detalladas, eran las más conocidas por los usuarios.
+En esta prueba pudimos ver que una web de tipo responsive, que incluya un carrito de compra y que tenga los artículos con las características detalladas, resulta ser más confiable para los usuarios.
 
 ![brenchmarket](https://user-images.githubusercontent.com/44978365/52504625-01293c80-2bb7-11e9-95e8-c26b345ecc1b.jpg)
 
@@ -119,7 +119,7 @@ Asimismo en las entrevistas realizadas a los usuarios se pudieron determinar los
 
 Una vez finalizada la investigación de la problemática de CENTRAL FLY y teniendo presente los problemas detectados, se determinaron las siguientes soluciones:
 
-1. *COMPRA ONLINE*: Para este problema se ha propuesto crear un carrito de compras que permita al usuario, realizar el pago a través de una tarjeta de crédito o una pasarela de pagos. Así los usuarios evitarán enviar un formulario para compra, esperar la contestación y buscar un banco específico a fin de realizar el pago correspondiente a su producto.
+1. *COMPRA ONLINE*: Para este problema se ha propuesto crear un carrito de compras que permita al usuario, realizar el pago a través de una tarjeta de crédito o una pasarela de pagos. Así los usuarios evitarán enviar un formulario para comprar, esperar la respuesta y buscar un banco específico a fin de realizar el pago correspondiente a su producto.
 
 2. *DETALLES DE PRODUCTO*: Para este problema se plantea que cuando el usuario ubique el producto a comprar pueda ver a través de diferentes fotos tomadas en diferentes ángulos el estado y características del producto, asimismo se implementará tres áreas desplegables en la que se detallarán las Descripción, características y el contenido del producto seleccionado.
 
@@ -144,8 +144,24 @@ De las tres tareas testeadas, a cuatro de los usuarios se les dificultó la bús
 
 Con el levantamiento de estas observaciones empezamos a diseñar el prototipo de alta fidelidad:
 
-## ***Link a prototipo navegable***
+![alta cf1](https://user-images.githubusercontent.com/44978365/52805237-26ed9000-3054-11e9-9bda-7df60cd3dfec.JPG)
+![alta cf2](https://user-images.githubusercontent.com/44978365/52805285-3ff64100-3054-11e9-92b8-5b7805030068.JPG)
+![alta cf3](https://user-images.githubusercontent.com/44978365/52805308-4dabc680-3054-11e9-92bc-a475e70715ce.JPG)
+![alta cf4](https://user-images.githubusercontent.com/44978365/52805328-58665b80-3054-11e9-9813-5159027d3ee0.JPG)
+![alta cf5](https://user-images.githubusercontent.com/44978365/52805343-62885a00-3054-11e9-9d31-76a67b9e183e.JPG)
+![alta cf6](https://user-images.githubusercontent.com/44978365/52805364-6caa5880-3054-11e9-8768-c26a9f9d073d.JPG)
 
+
+Hasta la fecha se han podido sacar las siguientes conclusiones de los cinco testeos que se han podido realizar:
+
+1. El flujo de compra es el adecuado a los usuarios, se les hizo sencillo y fácil poder realizar la compra.
+2. La modalidad de pago es adaptable a las necesidades de los usuarios.
+3. A los usuarios se les hizo sencillo buscar un producto específico dentro de la página.
+
+Cabe resaltar que seguimos testeando nuestros prototitos 
+
+
+## ***Link a prototipo navegable***
 
 ## ***Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.***
 
@@ -170,13 +186,18 @@ Habiando terminado el prototipo de alta fidelidad, elaboramos el USER FLOW, que 
 
 ![user flow](https://user-images.githubusercontent.com/44978365/52571982-b856cb00-2de4-11e9-9e2a-88f29cd54429.jpeg)
 
+
+## ***Mapa de sitio***
+
+![diagrama en blanco](https://user-images.githubusercontent.com/44978365/52804522-65824b00-3052-11e9-9d03-6df22cd52532.png)
+
 ## ***Link ADOBE XD***
 
 https://xd.adobe.com/view/9ce1f42d-f532-47d5-7669-e12eb8d44a64-ead0/
 
 ## ***Video de Loom***
 
-
+https://www.useloom.com/share/7a9d96f97b5d42dba89a5f90a265a2fb
 
 ## ***Link de documentación en Google***
 
