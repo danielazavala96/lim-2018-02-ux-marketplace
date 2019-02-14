@@ -11,14 +11,46 @@
 <body>
 <header>
     <ul class="menu">
-        <li ><span><img src="/IMAGENES/menu.svg" alt="menu"></span><a>MENU</a></li>
+        <li ><span><img src="/IMAGENES/menu.svg" alt="menu"></span><a class="menu-letters">MENU</a></li>
         <li><img src="/IMAGENES/search.svg" alt="menu"></li>
-        <li><img class="img_home" src="/IMAGENES/FLY.png" alt="menu"></li>
+        <li><img class="img_home" src="https://user-images.githubusercontent.com/44978365/52722411-86c33880-2f79-11e9-9c8b-9687382cc53c.png" alt="menu"></li>
         <li><img src="/IMAGENES/login.svg" alt="menu"></li>
         <li><img src="/IMAGENES/carrito.svg" alt="menu"></li>    
     </ul>
+
+<!-- Menu desktop -->
+<div class="menu-flex">
+<img class="img_home" src="https://user-images.githubusercontent.com/44978365/52722411-86c33880-2f79-11e9-9c8b-9687382cc53c.png" alt="menu">   
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Nosotros <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Tienda</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Contáctanos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Villanos VIP</a>
+          </li>
+        </ul>
+            <div class="menu-icons">        
+      <li><img src="/IMAGENES/login.svg" alt="menu"></li>
+      <li><img src="/IMAGENES/search.svg" alt="menu"></li>
+      <li><img src="/IMAGENES/carrito.svg" alt="menu"></li>  
+    </div>
+      </nav>     
+      </div>
+  </div>
   </header>
 
+  <main>
     <!-- CAROUSEL -->
     <div class="col-md-12">
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -26,22 +58,26 @@
               <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
               <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
               <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
             </ol>
             <div class="carousel-inner" role="listbox">
                 
-              <div class="carousel-item active">
-                <img src="/IMAGENES/carrusel1.jpg" class="d-block w-100" alt="...">
+              <div class="carousel-item img-carru active">
+                <img id="img-style" src="https://user-images.githubusercontent.com/45070944/52772207-ea934300-3005-11e9-8ebb-b39089ea94da.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption">
                     <h3 class="slide1">Sé un VILLANO,colecciona y sonríe</h3>
-                    <h2 class="slide1">Disfruta la oportunidades especiales de lo clientes VIP</h2>
-                    <button>SER VIP</button>
+                    <h2 class="slide1">Disfruta los beneficios de ser VIP</h2>
+                    <button>QUIERO SER VIP</button>
                 </div>
               </div>
-              <div class="carousel-item">
-                <img src="/IMAGENES/carrusel2.jpg" class="d-block w-100" alt="...">
+              <div class="carousel-item img-carru">
+                <img id="img-style" src="https://user-images.githubusercontent.com/45070944/52772249-00a10380-3006-11e9-80c3-3e971ed24676.jpg" class="d-block w-100" alt="...">
               </div>
-              <div class="carousel-item">
-                <img src="/IMAGENES/carrusel3.jpg" class="d-block w-100" alt="...">
+              <div class="carousel-item img-carru">
+                <img id="img-style" src="https://user-images.githubusercontent.com/45070944/52772319-27f7d080-3006-11e9-9a3e-485bebe17d4d.jpg" class="d-block w-100" alt="...">
+              </div>
+              <div class="carousel-item img-carru">
+                <img id="img-style" src="https://user-images.githubusercontent.com/45070944/52772717-372b4e00-3007-11e9-8ac1-4649daf99164.jpg" class="d-block w-100" alt="...">
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -55,71 +91,303 @@
         </div>
     </div>
 
-
     <!-- SLIDES DE MARCAS -->
     <div class="slider">
             <ul class="slide">
-              <li><img src="/IMAGENES/log_gijoe.png" alt="banner1"></li>
-              <li><img src="/IMAGENES/logo bandai.png" alt="banner2"></li>
-              <li><img src="/IMAGENES/logo_dc.png" alt="banner3"></li>
-              <li><img src="/IMAGENES/logo_funko.png" alt="banner4"></li>
-              <li><img src="/IMAGENES/logo_marvel.jpg" alt="banner5"></li>
+              <li><img src="https://user-images.githubusercontent.com/44978365/52722723-37c9d300-2f7a-11e9-9478-1902b35d9d70.png" alt="banner1"></li>
+              <li><img src="https://user-images.githubusercontent.com/44978365/52722760-47e1b280-2f7a-11e9-8f09-819663f88452.png" alt="banner2"></li>
+              <li><img src="https://user-images.githubusercontent.com/44978365/52722789-58922880-2f7a-11e9-9f8b-9b31bc1bfa10.png" alt="banner3"></li>
+              <li><img src="https://user-images.githubusercontent.com/44978365/52722822-68aa0800-2f7a-11e9-9bea-4d366e7b577d.jpg" alt="banner4"></li>
+              <li><img src="https://user-images.githubusercontent.com/44978365/52722870-7a8bab00-2f7a-11e9-9522-5bdd08bb8a1a.png" alt="banner5"></li>
             </ul>
     </div>
 
-    <!-- SLIDES DE OFERTAS -->
-     
-        <div class="row">
-            <div class="col-6 col-sm-6 col-md-4">
-                <div class="thumbnail">
-                  <div class="cart1">
-                    <div class="img-detalle">
-                      <img class="img-ofert" src="IMAGENES/goku.jpg" alt="...">
-                      <a href="#"  class="btn btn-product btn-primary" role="button">MÁS DETALLES</a>
-                    </div>
-                    <div class="caption">
-                      <h3 class="name-product-cat">Super Saiyan Goku</h3>
-                      <p>Banpresto</p>
-                      <p> $39.99 </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-          <div class="col-6 col-sm-6 col-md-4">
-              <div class="thumbnail">
-                <div class="cart1">
-                  <div class="img-detalle">
-                    <img class="img-ofert" src="IMAGENES/goku.jpg" alt="...">
+<!-- SLIDES DE OFERTAS -->
+    <div class="title-orders"> OFERTAS </div> 
+    <div class="row">
+        <div class="col-6 col-sm-6 col-md-4">
+            <div class="thumbnail">
+              <div class="cart1">
+                <div class="img-detalle">
+                  <img class="img-ofert" src="https://user-images.githubusercontent.com/44978365/52747356-9d858180-2fb1-11e9-9eea-66a9d6cf202f.jpg" alt="...">
                     <a href="#"  class="btn btn-product btn-primary" role="button">MÁS DETALLES</a>
-                  </div>
-                  <div class="caption">
-                    <h3 class="name-product-cat">Super Saiyan Goku</h3>
-                    <p>Banpresto</p>
-                    <p> $39.99 </p>
-                  </div>
+                </div>
+                <div class="caption">
+                  <h3 class="name-product-cat">Super Saiyan Goku</h3>
+                  <p>Banpresto</p>
+                  <p> $39.99 </p>
                 </div>
               </div>
             </div>
-
+          </div>
+      <div class="col-6 col-sm-6 col-md-4">
+          <div class="thumbnail">
+            <div class="cart1">
+              <div class="img-detalle">
+                <img class="img-ofert" src="https://user-images.githubusercontent.com/44978365/52723008-bb83bf80-2f7a-11e9-8b99-51f0a00bc84c.jpg" alt="...">
+                <button type="button" class="btn btn-product btn-primary" data-toggle="modal" data-target="#exampleModal">MÁS DETALLES</button>
+              </div>
+              <div class="caption">
+                <h3 class="name-product-cat">Evangelion</h3>
+                <p>Ankle Boots</p>
+                <p> $49.99 </p>
+              </div>
+            </div>
+          </div>
         </div>
+        <div class="col-6 col-sm-6 col-md-4 figure-one">
+            <div class="thumbnail">
+              <div class="cart1">
+                <div class="img-detalle">
+                  <img class="img-ofert" src="https://user-images.githubusercontent.com/45070944/52768124-8a4ad400-2ffa-11e9-876a-045277fed9da.jpg" alt="...">
+                  <a href="#"  class="btn btn-product btn-primary" role="button">MÁS DETALLES</a>
+                </div>
+                <div class="caption">
+                  <h3 class="name-product-cat">Deadpool</h3>
+                  <p>Diamond Select Toys</p>
+                  <p> $49.99 </p>
+                </div>
+              </div>
+            </div>
+          </div>
+      </div>
+      </div>
+
+    <div class="view-more"><button class="butt-more">VER MÁS</button></div>
           
- 
+<!-- SLIDES DE PRE ORDEN -->
+<div class="title-orders"> PRE-ORDEN </div> 
+<div class="row">
+    <div class="col-6 col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <div class="cart1">
+            <div class="img-detalle">
+              <img class="img-ofert" src="https://user-images.githubusercontent.com/44978365/52748211-ea6a5780-2fb3-11e9-81d2-5f155361dbe0.jpg" alt="...">
+               <a href="#"  class="btn btn-product btn-primary" role="button">MÁS DETALLES</a>
+            </div>
+            <div class="caption">
+              <h3 class="name-product-cat">Milo de Escorpio</h3>
+              <p>Banpresto</p>
+              <p> $39.99 </p>
+            </div>
+          </div>
+        </div>
+      </div>
+  <div class="col-6 col-sm-6 col-md-4">
+      <div class="thumbnail">
+        <div class="cart1">
+          <div class="img-detalle">
+            <img class="img-ofert" src="https://user-images.githubusercontent.com/44978365/52748233-fc4bfa80-2fb3-11e9-9c0d-f411a6048828.jpg" alt="...">
+            <a href="#"  class="btn btn-product btn-primary" role="button">MÁS DETALLES</a>
+          </div>
+          <div class="caption">
+            <h3 class="name-product-cat">Bombolbi</h3>
+            <p>Ban Dai</p>
+            <p> $27.99 </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-6 col-sm-6 col-md-4 figure-two">
+        <div class="thumbnail">
+          <div class="cart1">
+            <div class="img-detalle">
+              <img class="img-ofert" src="https://user-images.githubusercontent.com/45070944/52768161-a77fa280-2ffa-11e9-821d-90165d0acbea.jpg" alt="...">
+              <a href="#"  class="btn btn-product btn-primary" role="button">MÁS DETALLES</a>
+            </div>
+            <div class="caption">
+              <h3 class="name-product-cat">Superman</h3>
+              <p>DC Collectibles</p>
+              <p> $27.99 </p>
+            </div>
+          </div>
+        </div>
+      </div>
+</div>
+<div class="view-more"><button class="butt-more">VER MÁS</button></div>
      
- 
+ <!-- SLIDES DE EN TIENDA -->
+<div class="title-orders"> EN TIENDA </div> 
+<div class="row">
+    <div class="col-6 col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <div class="cart1">
+            <div class="img-detalle">
+              <img class="img-ofert" src="https://user-images.githubusercontent.com/44978365/52748378-606ebe80-2fb4-11e9-87f8-a94b6b340fc5.jpg" alt="...">
+               <a href="#"  class="btn btn-product btn-primary" role="button">MÁS DETALLES</a>
+            </div>
+            <div class="caption">
+              <h3 class="name-product-cat">Naruto</h3>
+              <p>Banpresto</p>
+              <p> $48.99 </p>
+            </div>
+          </div>
+        </div>
+      </div>
+  <div class="col-6 col-sm-6 col-md-4">
+      <div class="thumbnail">
+        <div class="cart1">
+          <div class="img-detalle">
+            <img class="img-ofert" src="https://user-images.githubusercontent.com/44978365/52748418-79776f80-2fb4-11e9-8022-e21e84c1463b.jpg" alt="...">
+            <a href="#"  class="btn btn-product btn-primary" role="button">MÁS DETALLES</a>
+          </div>
+          <div class="caption">
+            <h3 class="name-product-cat">Mr. Freeze</h3>
+            <p>DC COMICS</p>
+            <p> $59.99 </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-6 col-sm-6 col-md-4 figure-three">
+        <div class="thumbnail">
+          <div class="cart1">
+            <div class="img-detalle">
+              <img class="img-ofert" src="https://user-images.githubusercontent.com/45070944/52768257-ffb6a480-2ffa-11e9-9746-ee55214dd4db.jpg" alt="...">
+              <a href="#"  class="btn btn-product btn-primary" role="button">MÁS DETALLES</a>
+            </div>
+            <div class="caption">
+              <h3 class="name-product-cat">Batman</h3>
+              <p>DC COMICS</p>
+              <p> $59.99 </p>
+            </div>
+          </div>
+        </div>
+      </div>
+</div>
       
+<div class="view-more"><button class="butt-more">VER MÁS</button></div>
+
+  
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" id="modal-product" role="document">
+      <div class="modal-content" id="modal-product">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel"> Detalle de Producto </h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        
+        
+        <div class="modal-body">
+          <div class="product-detall-name">
+          <p> Evangelion </p>
+          <p> Ankle Boots </p>  
+        </div>
+         
+          <div class="detall-img">
+            <img class="img-princip" src="https://user-images.githubusercontent.com/45070944/52750153-6e730e00-2fb9-11e9-9dfd-0d535f3dd14f.jpg" alt="">
+            
+            <div class="img-product-detall">
+                <img class="img-secund" src="https://user-images.githubusercontent.com/45070944/52750184-8ba7dc80-2fb9-11e9-8802-c3f47a0279f2.jpg" alt="">
+                <img class="img-secund" src="https://user-images.githubusercontent.com/45070944/52750227-aed28c00-2fb9-11e9-83a4-937f6dda3993.jpg" alt="">
+                <img class="img-secund" src="https://user-images.githubusercontent.com/45070944/52750289-d45f9580-2fb9-11e9-8d96-d5257ddbca4e.jpg" alt="">
+            </div>
+          </div>
+        
+      <div class="detall-product">
+        <div class="product-detall-arti">
+          <p> Total S/.168.00</p>
+          <p> Total $49.99</p>
+        </div>
+        <div class="product-detall-cant">
+          <p>CANTIDAD</p>
+          <div id="cant"><img src="https://user-images.githubusercontent.com/44978365/52771736-aeabae00-3004-11e9-9954-7afd2b29da2f.png" alt=""> <span>1</span> <img src="https://user-images.githubusercontent.com/44978365/52771727-a784a000-3004-11e9-8def-47fcd5837c71.png" alt=""> </div>
+        </div>
+      </div>
+          <div class="accordion" id="accordionExample">
+            <div class="card">
+              <div class="card-header" id="headingOne">
+                <h2 class="mb-0">
+                  <button class="btn btn-link" id="btn-text" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    DESCRIPCIÓN DEL PRODUCTO
+                  </button>
+                </h2>
+              </div>
+          
+              <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                <div class="card-body">
+                  Bandai Hobby #1 Model HG EVA-01 Test Type Neon Genesis Evangelion Action Figure (Limited Edition)
+                </div>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header" id="headingTwo">
+                <h2 class="mb-0">
+                  <button class="btn btn-link collapsed" id="btn-text" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    CARACTERÍSTICAS DEL PRODUCTO
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                <div class="card-body">
+                <p>Peso del producto: 358 g</p>  
+                <p>Dimensiones del producto: 5,1 x 7,6 x 19 cm</p>  
+                <p>Rango superior de edad recomendada: 15 años y más</p>  
+                <p>Edad mínima recomendada (por el fabricante): 15 años y más</p>  
+                <p>Idioma principal: Inglés</p>  
+                <p>Número de modelo: 54295</p>  
+                <p>Número de piezas: 1</p>  
+                <p>Montaje necesario: No</p>  
+                <p>Necesita baterías: No</p>  
+                <p>Incluye baterías: No</p>  
+                <p>Tipo(s) de material: plástico</p>  
+                <p>¿Mando a distancia incluido?: No</p>  
+                </div>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header" id="headingThree">
+                <h2 class="mb-0">
+                  <button class="btn btn-link collapsed" id="btn-text" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    CONTENIDO DE LA CAJA
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                <div class="card-body">
+                <p>  Este producto está sujeto a instrucciones y advertencias específicas de seguridad</p>
+                <p>  Advertencia: No conviene para niños menores de 14 años. Utilícese bajo la vigilancia de un adulto</p>
+                <p>  Advertencia: Sólo para uso doméstico</p>
+                <p>  Advertencia: Utilícese bajo la vigilancia directa de un adulto</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-primary" id="color-btn">COMPRAR AHORA</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal"><img src="https://user-images.githubusercontent.com/44978365/52766305-c713cc80-2ff4-11e9-9fd2-e4c46ab47f7c.png" alt=""></button>
+        </div>
+      </div>
+    </div>
+  </div>
 
 
+  <!-- PORQUE ELEGIRNOS -->
 
-
-
-
-
-
-
-
-
-   
+<div class="choose">
+    <div class="why">¿Por qué elegirnos?</div>
+    <div class="img-choose">
+      <div class="features"><img src="https://user-images.githubusercontent.com/44978365/52751277-e4c53f80-2fbc-11e9-8390-6912f7db4726.png" alt=""> <p class="det-eleg">acumula monedas</p></div>
+      <div class="features"><img src="https://user-images.githubusercontent.com/44978365/52751359-2b1a9e80-2fbd-11e9-81e9-7bbbe519e785.png" alt=""> <p class="det-eleg">entrega segura</p></div>
+      <div class="features"><img src="https://user-images.githubusercontent.com/44978365/52751376-3bcb1480-2fbd-11e9-9c43-78b773720db9.png" alt=""> <p class="det-eleg">envio internac.</p></div>
+      <div class="features"><img src="https://user-images.githubusercontent.com/44978365/52751445-76cd4800-2fbd-11e9-9327-bd1b113366bf.png" alt=""> <p class="det-eleg">pago seguro</p></div>
+      <div class="features"><img src="https://user-images.githubusercontent.com/44978365/52751485-8ea4cc00-2fbd-11e9-8758-324e7ec8595b.png" alt=""> <p class="det-eleg">servicio de atención</p></div>
+    </div>
+  </div>
+</main>
+<footer>
+  <div class="footers">
+    <div class="img-footer"><img src="https://user-images.githubusercontent.com/44978365/52753894-84d39680-2fc6-11e9-995a-f921e601bec8.png" alt=""></div>
+    <div class="img-footer"><img src="https://user-images.githubusercontent.com/44978365/52753925-a46abf00-2fc6-11e9-9906-4d96344d4be0.png" alt=""></div>
+    <div class="img-footer"><img src="https://user-images.githubusercontent.com/44978365/52753952-afbdea80-2fc6-11e9-8533-01be02c19a2e.png" alt=""></div>
+  </div>
+</footer>
+</header>
+ 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/js/bootstrap.min.js" integrity="sha384-7aThvCh9TypR7fIc2HV4O/nFMVCBwyIUKL8XCtKE+8xgCgl/PQGuFsvShjr74PBp" crossorigin="anonymous"></script>
