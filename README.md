@@ -182,7 +182,7 @@ Para el tercer problema detectado, consistía en que el cliente deseaba ver las 
 
 ## ***User Flow***
 
-Habiando terminado el prototipo de alta fidelidad, elaboramos el USER FLOW, que nos permitirá seguir la secuencia de interactividad que tienen nuestros usuarios con nuestro aplicativo.
+Terminado el prototipo de alta fidelidad, elaboramos el user flow, que nos permitirá seguir la secuencia de interactividad que tienen nuestros usuarios con nuestro aplicativo.
 
 ![user flow](https://user-images.githubusercontent.com/44978365/52571982-b856cb00-2de4-11e9-9e2a-88f29cd54429.jpeg)
 
